@@ -22,7 +22,7 @@ const skillList = [
 			'https://media.discordapp.net/attachments/762721371809382421/793153790260805712/html5-css3.png'
 	},
 	{
-		name: "TypeScript", value: 'https://img.flaticon.com/icons/png/512/919/919832.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF'
+		name: "TypeScript", value: 'https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png'
 	},
 	
 	{
