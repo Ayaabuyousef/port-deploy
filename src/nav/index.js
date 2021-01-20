@@ -16,7 +16,7 @@ export default function Nav() {
   return (
     <Router>
      <Switch>
-        <Route exact path="/" component={Loading} />
+        <Route exact path="/port-deploy" component={Loading} />
         <Route path="/home" component={Home} />
         <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} />
