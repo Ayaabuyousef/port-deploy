@@ -13,7 +13,7 @@ const skillList = [
 	},
 	{
 		name: "JavaScript",
-         value:'https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png'
+         value:'https://www.devexhub.com/wp-content/uploads/2019/12/javascript-icon-png-23.png'
          
 	},
 	{
